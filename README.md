@@ -19,7 +19,7 @@ I'm a Student from SMK Wikrama Bogor
 
 ## Connect with Me
 
-[![Instagram](https://www.instagram.com/mas_bobull2.0)
+[![Instagram]((https://instagram.com/mas_bobull2.0))
 [![Email](https://mail.google.com/mail)](mailto:azkaazkarakhattaya@gmail.com)
 
 ---
