@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi!👋, I'm Azka
 
-<!--
-**MuhammadAzkaRakhataya/MuhammadAzkaRakhataya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a Student from SMK Wikrama Bogor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Lumen and React
+- 📫 How to reach me: [azkaazkarakhattaya@gmail.com](mailto:azkaazkarakhattaya@gmail.com)
+
+
+
+## Skills
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Lumen](https://img.shields.io/badge/Lumen-E74430?style=for-the-badge&logo=lumen&logoColor=white)
+
+## Connect with Me
+
+[![Instagram](https://www.instagram.com/mas_bobull2.0/)
+[![Email](https://mail.google.com/mail/u/0/#inbox)](mailto:azkaazkarakhattaya@gmail.com)
+
+---
+
+Thank you for visiting my profile! Feel free to connect with me or check out my work.
